@@ -25,7 +25,7 @@ def print_operation_table(operation, num_rows=6, num_columns=6):
         print()
 
 print("Таблица умножения")
-print_operation_table(operation_mul,12,12)
+print_operation_table(operation_mul,12,15)
 print()
 print("Таблица сложения")
 print_operation_table(operation_add,12,12)
